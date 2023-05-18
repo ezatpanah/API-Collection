@@ -28,6 +28,7 @@ Food
 
 News
 | **Name**  | **Link** | **Description** |
+| ------------- | ------------- | ------------- |
 | NewsAPI | [https://newsapi.org/](https://newsapi.org/) | Search worldwide news with code |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
