@@ -51,6 +51,7 @@ News
 
 Movie
 | **Name**  | **Link** | **Description** |
+| ------------- | ------------- | ------------- |
 | TheMovieDb | [https://developer.themoviedb.org/reference/intro/getting-started](https://developer.themoviedb.org/reference/intro/getting-started) | Millions of movies, TV shows and people to discover. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
