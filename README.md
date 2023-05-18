@@ -1,6 +1,5 @@
 # API-Collection
 
-|||
-|--|--|
+
 |** Name **|**Description**|
 |||
