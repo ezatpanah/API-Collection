@@ -28,6 +28,7 @@ Food
 
 News
 | **Name**  | **Link** | **Description** |
+| NewsAPI | [https://newsapi.org/](https://newsapi.org/) | Search worldwide news with code |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
@@ -36,7 +37,20 @@ News
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
+
+Picture
+| **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
+| Pexels | [https://www.pexels.com/api/](https://www.pexels.com/api/) | Give your users access to our entire photo and video library without leaving your app or website. It’s free and seamlessly integrates with just a few lines of code. |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+
 
 Movie
 | **Name**  | **Link** | **Description** |
@@ -54,7 +68,7 @@ Movie
 Music
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
-| Spotify |  [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api) | ------------- |
+| Spotify |  [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api) | Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
@@ -62,3 +76,15 @@ Music
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 
+
+General
+| **Name**  | **Link** | **Description** |
+| Rest Countries | [https://restcountries.com/](https://restcountries.com/) | Get information about countries via a RESTful API |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
