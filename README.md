@@ -79,6 +79,7 @@ Music
 
 General
 | **Name**  | **Link** | **Description** |
+| ------------- | ------------- | ------------- |
 | Rest Countries | [https://restcountries.com/](https://restcountries.com/) | Get information about countries via a RESTful API |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
