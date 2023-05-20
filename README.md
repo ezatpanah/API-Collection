@@ -4,8 +4,8 @@
 Coin
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
-| Coinbase |  [https://help.coinbase.com/en/cloud/api/coinbase](https://help.coinbase.com/en/cloud/api/coinbase) | ------------- |
-| Coingecko | [ https://www.coingecko.com/en/api/documentation ](https://www.coingecko.com/en/api/documentation) | ------------- |
+| Coinbase |  [https://help.coinbase.com/en/cloud/api/coinbase](https://help.coinbase.com/en/cloud/api/coinbase) | We are building the cryptoeconomy – a more fair, accessible, efficient, and transparent financial system enabled by crypto. |
+| Coingecko | [ https://www.coingecko.com/en/api/documentation ](https://www.coingecko.com/en/api/documentation) | Power your applications with CoinGecko’s independently sourced crypto data such as live prices, NFT floor prices, trading volume, exchange volumes, trading pairs, historical data, contract address data, crypto categories, crypto derivatives, images and more. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
