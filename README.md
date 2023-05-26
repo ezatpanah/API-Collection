@@ -70,8 +70,7 @@ Movie
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | TheMovieDb | [https://developer.themoviedb.org/reference/intro/getting-started](https://developer.themoviedb.org/reference/intro/getting-started) | Millions of movies, TV shows and people to discover. |
-| OMDb API | [https://www.omdbapi.com/](https://www.omdbapi.com/) | The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users.
- |
+| OMDb API | [https://www.omdbapi.com/](https://www.omdbapi.com/) | The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
