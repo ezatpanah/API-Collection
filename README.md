@@ -1,5 +1,18 @@
 # API-Collection
 
+Weather
+| **Name**  | **Link** | **Description** |
+| ------------- | ------------- | ------------- |
+| OpenWeather | [https://openweathermap.org/api](https://openweathermap.org/api) | OpenWeather is a team of IT experts and data scientists that has been practising deep weather data science. For each point on the globe, OpenWeather provides historical, current and forecasted weather data via light-speed APIs. |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 
 Coin
 | **Name**  | **Link** | **Description** |
