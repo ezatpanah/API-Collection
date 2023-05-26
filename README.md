@@ -4,7 +4,7 @@ Weather
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | OpenWeather | [https://openweathermap.org/api](https://openweathermap.org/api) | OpenWeather is a team of IT experts and data scientists that has been practising deep weather data science. For each point on the globe, OpenWeather provides historical, current and forecasted weather data via light-speed APIs. |
-| ------------- | ------------- | ------------- |
+| AerisWeather | [https://www.aerisweather.com/support/docs/api/](https://www.aerisweather.com/support/docs/api/) | The AerisWeather API is one of the most complete and advanced Weather APIs available and provides access to hyper-local weather datasets at your fingertips |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
