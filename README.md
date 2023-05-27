@@ -1,5 +1,8 @@
 # API-Collection
 
+# A collective list of free APIs .
+### This list will be updated daily
+
 Weather
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
