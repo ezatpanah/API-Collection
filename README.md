@@ -45,9 +45,9 @@ News
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | NewsAPI | [https://newsapi.org/](https://newsapi.org/) | Search worldwide news with code |
-| ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- |
+|  AYLIEN | [https://docs.aylien.com/newsapi/#getting-started](https://docs.aylien.com/newsapi/#getting-started) | AI-powered News API .Build intelligent applications, processes, and models with real-time access to enriched, tagged, and structured news feeds. |
+| ------------- | [https://www.newsapi.ai/documentation?tab=introduction](https://www.newsapi.ai/documentation?tab=introduction) | Easy to integrate news API that you can use in your products and services to obtain access to real-time as well as archive news content. |
+| NewsAPI.AI | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
