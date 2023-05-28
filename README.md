@@ -97,7 +97,7 @@ General
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | Rest Countries | [https://restcountries.com/](https://restcountries.com/) | Get information about countries via a RESTful API |
-| ------------- | ------------- | ------------- |
+| cat-facts | [https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun](https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun) | Daily cat facts! 🐱 |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
