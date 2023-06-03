@@ -73,7 +73,7 @@ Movie
 | ------------- | ------------- | ------------- |
 | TheMovieDb | [https://developer.themoviedb.org/reference/intro/getting-started](https://developer.themoviedb.org/reference/intro/getting-started) | Millions of movies, TV shows and people to discover. |
 | OMDb API | [https://www.omdbapi.com/](https://www.omdbapi.com/) | The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. |
-| ------------- | ------------- | ------------- |
+| IMDb API | [https://developer.imdb.com/](https://developer.imdb.com/) | "IMDb's movie and TV information is the most authoritative in the world, so that's why SoundHound Inc. chooses to license IMDb data for their Houndify Voice AI platform." |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
