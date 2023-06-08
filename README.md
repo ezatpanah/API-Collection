@@ -85,7 +85,7 @@ Music
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | Spotify |  [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api) | Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback. |
-| ------------- | ------------- | ------------- |
+| TheAudioDB | [https://www.theaudiodb.com/api_guide.php](https://www.theaudiodb.com/api_guide.php) | TheAudioDB is a community Database of audio artwork and metadata with a JSON API. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
