@@ -60,8 +60,7 @@ Picture
 | Pexels | [https://www.pexels.com/api/](https://www.pexels.com/api/) | Give your users access to our entire photo and video library without leaving your app or website. It’s free and seamlessly integrates with just a few lines of code. |
 | unsplash | [https://unsplash.com/documentation](https://unsplash.com/documentation) | Create with the largest open collection of high-quality photos. |
 | Generated Photos | [https://generated.photos/api](https://generated.photos/api) | Generated Photos are versatile images that can be safely used
-across your projects — from mockups to production. We offer
-many licensing option to fit your unique needs. |
+across your projects — from mockups to production. We offer many licensing option to fit your unique needs. |
 | TheCatAPI | [https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR](https://developers.thecatapi.com/view-account/ylX4blBYT9FaoVd6OhvR) | A public service API all about Cats, free to use when making your fancy new App, Website or Service. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
