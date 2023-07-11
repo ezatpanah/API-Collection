@@ -74,9 +74,7 @@ Movie
 | TheMovieDb | [https://developer.themoviedb.org/reference/intro/getting-started](https://developer.themoviedb.org/reference/intro/getting-started) | Millions of movies, TV shows and people to discover. |
 | OMDb API | [https://www.omdbapi.com/](https://www.omdbapi.com/) | The OMDb API is a RESTful web service to obtain movie information, all content and images on the site are contributed and maintained by our users. |
 | IMDb API | [https://developer.imdb.com/](https://developer.imdb.com/) | "IMDb's movie and TV information is the most authoritative in the world, so that's why SoundHound Inc. chooses to license IMDb data for their Houndify Voice AI platform." |
-| Marvel Comics API | [https://developer.marvel.com/](https://developer.marvel.com/) | The Marvel Comics API is a tool to help developers everywhere create amazing, uncanny and incredible web sites and applications using data from the 70-plus years of the Marvel age of comics.
-
- |
+| Marvel Comics API | [https://developer.marvel.com/](https://developer.marvel.com/) | The Marvel Comics API is a tool to help developers everywhere create amazing, uncanny and incredible web sites and applications using data from the 70-plus years of the Marvel age of comics.|
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
@@ -100,8 +98,8 @@ General
 | ------------- | ------------- | ------------- |
 | Rest Countries | [https://restcountries.com/](https://restcountries.com/) | Get information about countries via a RESTful API |
 | cat-facts | [https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun](https://alexwohlbruck.github.io/cat-facts/?ref=apilist.fun) | Daily cat facts! 🐱 |
-| ------------- | ------------- | ------------- |
-| ------------- | ------------- | ------------- |
+| NASA API | [https://api.nasa.gov/](https://api.nasa.gov/) | The EPIC API provides information on the daily imagery collected by DSCOVR's Earth Polychromatic Imaging Camera (EPIC) instrument |
+| CountAPI | [https://countapi.xyz/](https://countapi.xyz/) | This API allows you to create simple numeric counters. IaaS, Integer as a Service.|
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
