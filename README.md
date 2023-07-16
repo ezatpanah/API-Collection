@@ -92,6 +92,16 @@ Music
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 
+Podcast
+Music
+| **Name**  | **Link** | **Description** |
+| ------------- | ------------- | ------------- |
+| Taddy Podcast API | [https://taddy.org/developers/podcast-api](https://taddy.org/developers/podcast-api) | An API for developers to get information on 4 million podcasts and 95 million episodes. |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
+| ------------- | ------------- | ------------- |
 
 General
 | **Name**  | **Link** | **Description** |
