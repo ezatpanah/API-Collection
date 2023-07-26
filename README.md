@@ -92,13 +92,12 @@ Music
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 
-Podcast
-Music
+Podcast Music
 | **Name**  | **Link** | **Description** |
 | ------------- | ------------- | ------------- |
 | Taddy Podcast API | [https://taddy.org/developers/podcast-api](https://taddy.org/developers/podcast-api) | An API for developers to get information on 4 million podcasts and 95 million episodes. |
 | PodcastIndex.org API | [https://podcastindex-org.github.io/docs-api/#overview](https://podcastindex-org.github.io/docs-api/#overview) | The Podcast Index (Podcast Index LLC) is a software developer focused partnership that provides tools and data to anyone who aspires to create new and exciting Podcast experiences without the heavy lifting of indexing, aggregation and data management. |
-| ------------- | ------------- | ------------- |
+| Listen Notes Podcast API | [https://www.listennotes.com/api/](https://www.listennotes.com/api/) | Search the whole Internet's podcasts. Curate your own podcast playlists. Listen on your favorite podcast player apps. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
