@@ -86,7 +86,7 @@ Music
 | ------------- | ------------- | ------------- |
 | Spotify |  [https://developer.spotify.com/documentation/web-api](https://developer.spotify.com/documentation/web-api) | Spotify Web API enables the creation of applications that can interact with Spotify's streaming service, such as retrieving content metadata, getting recommendations, creating and managing playlists, or controlling playback. |
 | TheAudioDB | [https://www.theaudiodb.com/api_guide.php](https://www.theaudiodb.com/api_guide.php) | TheAudioDB is a community Database of audio artwork and metadata with a JSON API. |
-| ------------- | ------------- | ------------- |
+| Last.fm Music Discovery API | [https://www.last.fm/api](https://www.last.fm/api) | The Last.fm API allows anyone to build their own programs using Last.fm data. Find out more about how you can plug directly into our vast database or browse the list of methods on the left. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
