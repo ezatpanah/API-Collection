@@ -36,7 +36,7 @@ Food
 | Spoonacular | [https://spoonacular.com/food-api/docs](https://spoonacular.com/food-api/docs) | Our knowledge engineers spent years crafting our complex food ontology, which allows us to understand the relationships between ingredients, recipes, nutrition, allergens, and more.We understand "nut free" muffins can't contain pecans (even if the recipe doesn't mention "nuts" anywhere!) and we automatically determine that a recipe with Worcestershire sauce isn't vegetarian (we're looking at you, anchovies.) |
 | TheCocktailDb | [https://www.thecocktaildb.com/api.php](https://www.thecocktaildb.com/api.php) | An open, crowd-sourced database of drinks and cocktails from around the world. |
 | ReciPal | [https://www.recipal.com/](https://www.recipal.com/) | Our nutrition label generator makes it easy to create FDA and CFIA-compliant labels from anywhere. Recipe costing and inventory to improve your business. |
-| ------------- | ------------- | ------------- |
+| LogMeal API | [https://api.logmeal.es/docs/](https://api.logmeal.es/docs/) | The most Advanced AI Deep Learning API in the world for AI Food Detection, Recognition & Tracking. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
