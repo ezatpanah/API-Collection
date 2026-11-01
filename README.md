@@ -110,6 +110,7 @@ General
 | NASA API | [https://api.nasa.gov/](https://api.nasa.gov/) | The EPIC API provides information on the daily imagery collected by DSCOVR's Earth Polychromatic Imaging Camera (EPIC) instrument |
 | CountAPI | [https://countapi.xyz/](https://countapi.xyz/) | This API allows you to create simple numeric counters. IaaS, Integer as a Service.|
 | IP Location API | [https://ipapi.co/#api](https://ipapi.co/#api) | IP API is a service that provides you with information about an IP address. It exposes country, region, city, latitude, longitude, timezone, currency, and myriad other data.|
+| Bucketlist Dream of the Day | [https://bucketlist.nl/brand/droom-van-de-dag.openapi.json](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) | One daily travel or life experience as JSON; free and keyless, with Dutch by default. |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
 | ------------- | ------------- | ------------- |
